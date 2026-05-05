@@ -18,11 +18,12 @@ Mi enfoque combina ingeniería sólida, buenas prácticas, documentación clara 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-**Lenguajes:** Go, TypeScript, Python, SQL  
-**Frameworks:** NestJS, Fiber, FastAPI  
+**Lenguajes:** Go, TypeScript/NodeJS, Python
+**Bases de Datos:** SQL/NoSQL
+**Frameworks:** NestJS, Fiber, FastAPI, NextJS
 **Plataformas:** Directus, Supabase, Coolify, Vercel, Render  
 **Automatización:** n8n, WhatsApp Cloud API, Twilio, Zoko  
-**Infraestructura:** Docker, Traefik, VPS, GitHub Actions  
+**Infraestructura:** AWS, GCP, Docker, Traefik, VPS, GitHub Actions 
 **Modelado:** C4, UML, BIAN, OpenAPI, AsyncAPI  
 
 ---
@@ -59,4 +60,3 @@ Esta experiencia me permite trabajar de extremo a extremo, desde la arquitectura
 ## 🌐 Encuéntrame
 - **LinkedIn:** https://linkedin.com/in/jonathanludena  
 - **GitHub:** https://github.com/jonathanludena  
-- **Twitter/X:** https://twitter.com/jonathanludena  
