@@ -1,7 +1,7 @@
 # 🚀 Jonathan Ludeña  
-### Backend Architect • Automation Specialist • API & Integration Engineer
+### FullStack Architect • Automation Specialist • API & Integration Engineer
 
-Soy un arquitecto backend y consultor técnico apasionado por crear sistemas robustos, escalables y bien diseñados. Me especializo en **automatización**, **integración de servicios**, **modelado arquitectónico**, y **optimización de procesos** tanto técnicos como operativos.
+Soy un arquitecto fullstack y consultor técnico apasionado por crear sistemas robustos, escalables y bien diseñados. Me especializo en **automatización**, **integración de servicios**, **modelado arquitectónico**, y **optimización de procesos** tanto técnicos como operativos.
 
 Mi enfoque combina ingeniería sólida, buenas prácticas, documentación clara y una obsesión por la eficiencia.
 
